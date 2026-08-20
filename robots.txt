@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-bsza8d.pulaucuanwin.sbs/sitemap.xml
